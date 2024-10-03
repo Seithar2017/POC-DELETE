@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OMDbAPICaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb1a836f718978d0d599edb2b33ebdbc4a076db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20eacf79c7ac91e8af537cb981f0b34e62ca0c43")]
 [assembly: System.Reflection.AssemblyProductAttribute("OMDbAPICaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OMDbAPICaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
